@@ -1,7 +1,7 @@
 <!--
 **soham2560/soham2560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h2 align="center">Hi 👋, I'm Soham Patil</h2>
-<h4 align="center">I'm a robotics enthusiast🤖 and currently a Research Assistant(RRC)🎓 at IIIT, Hyderabad and an Alumni Mentor for MIT Tech Team🚀, I enjoy guiding and inspiring the next generation of roboticists</h4>
+<h4 align="center">I'm a robotics enthusiast🤖 and currently a Research Assistant(RRC)🎓 at IIIT, Hyderabad and an Alumni Mentor for MIT Tech Team🚀, I enjoy making robots and then spending thrice as long debugging them.</h4>
 
 - 🌱 Currently diving into **all things robotics** because, why not? 🤖
 - 👯 I'm up for some robot-building adventures in the world of **open source robotics projects**. Let's create cool stuff together! 🚀
